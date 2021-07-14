@@ -608,4 +608,5 @@ const styles = StyleSheet.create(
   }
 })
 
-module.exports = SortableGrid
+//module.exports = SortableGrid
+export default SortableGrid;
